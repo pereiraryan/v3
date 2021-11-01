@@ -158,7 +158,7 @@ const About = () => {
               I also have have a bachelor’s degree in Computer Engineering from the{' '}
               <a href="https://mu.ac.in/">University of Mumbai.</a> My objective is to use my
               practical skills and gain first hand experience in building and designing products
-              which can help solving problems.
+              which can help solve problems.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
